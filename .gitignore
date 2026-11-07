@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# 大文件（可重新生成）
+data.npz
+
+# 个人求职相关（不公开）
+INTERVIEW_QA.md
+jobspider.py
+jobs_ai.csv
+jobs_tel.csv
+jobs_ai_meta.txt
+jobs_tel_meta.txt
